@@ -6,6 +6,7 @@ export default function Main(props) {
       <h1>
         <Link to="/">Reduxstagram</Link>
       </h1>
+      {React.cloneElement(props.children, props)}
     </div>
   );
 }
