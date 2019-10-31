@@ -1,5 +1,7 @@
 # Learn Redux
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/DenisRebenok/reduxtagram.svg)](https://greenkeeper.io/)
+
 A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
 
 ## Running
