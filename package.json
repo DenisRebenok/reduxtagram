@@ -54,7 +54,7 @@
   "devDependencies": {
     "expect": "^24.9.0",
     "expect-jsx": "^5.0.0",
-    "mocha": "^6.2.2",
+    "mocha": "^7.0.1",
     "react-addons-test-utils": "^15.0.2"
   }
 }
